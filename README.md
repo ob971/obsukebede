@@ -1,5 +1,3 @@
-# obsukebede
-Hello world, this is my profile 
 <h1 align="center">Hi 👋, I'm Obsu Kebede</h1>
 <h3 align="center">I am a software engineering student at Addis Ababa University in Ethiopia.</h3>
 
