@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Obsu Kebede</h1>
+<h1 align="center">Hi 👋,I'm Obsu Kebede</h1>
 <h3 align="center">I am a software engineering student at Addis Ababa University in Ethiopia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ob971&label=Profile%20views&color=0e75b6&style=flat" alt="ob971" /> </p>
